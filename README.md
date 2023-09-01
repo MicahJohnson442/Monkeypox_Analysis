@@ -9,21 +9,21 @@ In this project, I will carry out an Exploratory Data Analysis on a Monkey Pox d
 
 - Top 10 Countries by Confirmed Cases 
 
-Top 5 Countries by Suspected Cases 
+- Top 5 Countries by Suspected Cases 
 
-Top 10 Countries by Hospitalized Cases 
+- Top 10 Countries by Hospitalized Cases 
 
-Travel History 
+- Travel History 
 
-Correlation between Travel History and Confirmed Cases 
+- Correlation between Travel History and Confirmed Cases 
 
-Correlation between Travel History and Suspected Cases 
+- Correlation between Travel History and Suspected Cases 
 
-The Symptoms that Monkey Pox infected people face. 
+- The Symptoms that Monkey Pox infected people face. 
 
  
 
-Files Used  
+# Files Used  
 
 Monkey_Pox_Cases_Worldwide: This dataset contains a tally of confirmed and suspected cases in all the countries. 
 
@@ -35,7 +35,7 @@ Daily_Country_Wise_Conformed_Cases: This dataset contains the daily number of co
 
  
 
-References 
+# References 
 
 Kaggle dataset of monkeypox cases worldwide: https://www.kaggle.com/datasets/deepcontractor/monkeypox-dataset-dailyupdated/code 
 
