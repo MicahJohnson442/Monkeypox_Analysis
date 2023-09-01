@@ -5,9 +5,9 @@ An ongoing outbreak of monkeypox was confirmed on May 6, 2022, beginning with a 
 
 In this project, I will carry out an Exploratory Data Analysis on a Monkey Pox dataset. The following questions were answered through the analysis of the data: 
 
-Monkey Pox Confirmed Cases Worldwide 
+- Monkey Pox Confirmed Cases Worldwide 
 
-Top 10 Countries by Confirmed Cases 
+- Top 10 Countries by Confirmed Cases 
 
 Top 5 Countries by Suspected Cases 
 
