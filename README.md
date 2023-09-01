@@ -1,4 +1,5 @@
-# Monkeypox_Analysis
+# Monkeypox_Exploratory_Data_Analysis
+
 Monkeypox is an infectious disease caused by the monkeypox virus that can occur in certain animals, including humans. Symptoms begin with fever, headache, muscle pains, swollen lymph nodes, rashes with blisters and tiredness.  
 
 An ongoing outbreak of monkeypox was confirmed on May 6, 2022, beginning with a British resident who, after traveling to Nigeria (where the disease is endemic), presented symptoms consistent with monkeypox on April 29, 2022. The resident returned to the United Kingdom on May 4, creating the country's index case of the outbreak. 
